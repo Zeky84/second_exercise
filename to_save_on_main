@@ -1,0 +1,2 @@
+# this is file is going to be copy to the main file
+print('hello world')
